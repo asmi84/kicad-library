@@ -1,4 +1,4 @@
-(module PJ_102B (layer F.Cu) (tedit 5DBF933A)
+(module PJ_102B (layer F.Cu) (tedit 5DBF9981)
   (fp_text reference REF** (at -2.5 5.1) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -14,7 +14,7 @@
   (pad 1 thru_hole oval (at 0 3) (size 2.6 2) (drill oval 1.6 1) (layers *.Cu *.Mask))
   (pad 2 thru_hole oval (at 0 -3) (size 2.6 2) (drill oval 1.6 1) (layers *.Cu *.Mask))
   (pad 3 thru_hole oval (at -4.7 0) (size 2 2.6) (drill oval 1 1.6) (layers *.Cu *.Mask))
-  (model D:/Andrey/Projects/GitHub/kicad-3dmodels/models/CUI_PJ-102B.step
+  (model ../../kicad-3dmodels/models/CUI_PJ-102B.step
     (offset (xyz 0 10.7 6.7))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 -90))

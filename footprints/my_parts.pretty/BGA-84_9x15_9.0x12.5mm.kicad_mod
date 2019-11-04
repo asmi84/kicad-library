@@ -1,4 +1,4 @@
-(module BGA-84_9x15_9.0x12.5mm (layer F.Cu) (tedit 5DAF3BE0)
+(module BGA-84_9x15_9.0x12.5mm (layer F.Cu) (tedit 5DBF99C0)
   (attr smd)
   (fp_text reference REF** (at 0 -7.25) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
@@ -113,7 +113,7 @@
   (pad K9 smd circle (at 3.2 1.6) (size 0.45 0.45) (layers F.Cu F.Paste F.Mask))
   (pad M9 smd circle (at 3.2 3.2) (size 0.45 0.45) (layers F.Cu F.Paste F.Mask))
   (pad P9 smd circle (at 3.2 4.8) (size 0.45 0.45) (layers F.Cu F.Paste F.Mask))
-  (model C:/Personal/Src/KiCAD/S7_Min/BGA84_8M0X12M5.STEP
+  (model ../../kicad-3dmodels/models/BGA84_8M0X12M5.STEP
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
