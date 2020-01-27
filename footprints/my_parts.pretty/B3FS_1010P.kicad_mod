@@ -1,4 +1,5 @@
-(module B3FS_1010P (layer F.Cu) (tedit 5DBF9971)
+(module B3FS_1010P (layer F.Cu) (tedit 5E2E5099)
+  (attr smd)
   (fp_text reference REF** (at 0 4.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

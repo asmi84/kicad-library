@@ -1,4 +1,5 @@
-(module hdmi_type_a_10029449-111RLF (layer F.Cu) (tedit 5DC25C1C)
+(module hdmi_type_a_10029449-111RLF (layer F.Cu) (tedit 5E2E5112)
+  (attr smd)
   (fp_text reference REF** (at 0 -2.75) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
